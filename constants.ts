@@ -9,7 +9,7 @@ export const EXPERT_DATA = {
 };
 
 export const IMAGES = {
-  hero: "https://i.imgur.com/h9AmPgF.png",
+  hero: "https://i.imgur.com/SOnjg43.png",
   expertAlt: "https://i.imgur.com/aqfyDz9.png",
   results: [
     "https://i.imgur.com/xylFVoO.png",
